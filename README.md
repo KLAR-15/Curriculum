@@ -1,7 +1,4 @@
-# KLAR-15
+## 🌐 Proyecto en línea
 
-This project is a simple HTML webpage published using GitHub Pages.
-
-Project URL:  
+🔗 Puedes ver el proyecto funcionando aquí:  
 https://klar-15.github.io/KLAR-15/
-🔗 Puedes ver el proyecto en vivo aquí: https://klar-15.github.io/KLAR-15/
