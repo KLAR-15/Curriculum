@@ -1,5 +1,6 @@
 # KLAR-15
 
-Este proyecto es mi página web publicada en GitHub Pages.
+Este proyecto es una página web simple creada con HTML.
 
-Puedes verla aquí: https://klar-15.github.io/KLAR-15/
+🔗 Puedes ver la página publicada aquí:  
+👉 https://klar-15.github.io/KLAR-15
